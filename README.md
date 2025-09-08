@@ -1,5 +1,8 @@
 # Ubuntu Nautilus Crashed Fixer 🛠️
 
+![ubuntu-nautilus-crashed-fixer](https://github.com/user-attachments/assets/8f062ef5-a08e-4dad-8a82-420e47b296fb)
+
+
 A comprehensive solution for fixing Nautilus (Files) freezing issues on Ubuntu systems.
 
 ## 🚨 Problem Description
